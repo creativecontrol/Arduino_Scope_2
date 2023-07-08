@@ -33,7 +33,7 @@ The Arduino Scope 2 allows for viewing up to 4 analog signals at the same time. 
 
 ### Color key
 
-![Color key](./ColorKey.jpg)
+![Color key](./ColorKey.png)
 
 ## Notes and caveats
 
